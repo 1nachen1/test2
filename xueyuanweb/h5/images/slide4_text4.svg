@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="654" height="317" viewBox="0 0 654 317">
+    <defs>
+        <linearGradient id="topLeftCircle" x1="0.1" y1="0.1" x2="0.8" y2="0.8">
+            <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9"/>
+            <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <circle cx="30" cy="30" r="120" fill="url(#topLeftCircle)" opacity="0.7"/>
+
+    <rect x="0" y="0" width="654" height="317" rx="15" fill="#D9A428" />
+
+    <circle cx="50" cy="50" r="80" fill="url(#light_glow)"  opacity="0"/>
+
+    <g fill="white" font-family="SimHei, 'Microsoft YaHei', sans-serif">
+        <text x="35" y="85" font-size="48" font-weight="bold">甘肃省</text>
+        <text x="185" y="85" font-size="90" font-weight="bold">3</text>
+        <text x="250" y="85" font-size="48" font-weight="bold">个</text>
+    </g>
+
+    <g fill="white" font-family="SimHei, 'Microsoft YaHei', sans-serif" font-size="22">
+        <text x="40" y="145">
+            <tspan fill-opacity="0.9">•</tspan> <tspan dx="5">甘肃省制造业信息化工程技术研究中心</tspan>
+        </text>
+        <text x="40" y="195">
+            <tspan fill-opacity="0.9">•</tspan> <tspan dx="5">甘肃省中医药大数据产业技术工程研究中心</tspan>
+        </text>
+        <text x="40" y="245">
+            <tspan fill-opacity="0.9">•</tspan> <tspan dx="5">甘肃省城市轨道交通智能运营工程研究中心</tspan>
+        </text>
+    </g>
+</svg>

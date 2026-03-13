@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1200px" height="220px">
+    <style>
+        .blue-text { fill: #0056b3; font-family: 'Microsoft YaHei', sans-serif; font-size: 26px; font-weight: bold; }
+        .blue-number { fill: #0056b3; font-family: 'Times New Roman', serif; font-size: 130px; font-weight: bold; }
+        .blue-unit { fill: #0056b3; font-family: 'Microsoft YaHei', sans-serif; font-size: 22px; font-weight: normal; }
+        .blue-shape { stroke: #0056b3; stroke-width: 3; fill: none; }
+        .blue-line { stroke: #0056b3; stroke-width: 2; fill: none; }
+    </style>
+
+    <g transform="translate(50, 40)">
+        <text class="blue-text" x="20" y="80">省级优秀硕士论文</text>
+
+        <g transform="translate(380, 0)">
+            <text class="blue-number" x="20" y="100">5</text>
+            <text class="blue-unit" x="285" y="90">篇</text>
+        </g>
+    </g>
+
+    <g transform="translate(50, 150)">
+        <g>
+            <polygon class="blue-shape" points="0,0 20,-20 40,0 20,20"/> <polygon class="blue-shape" points="5,0 20,-15 35,0 20,15"/> </g>
+        <line class="blue-line" x1="40" y1="0" x2="780" y2="0"/>
+    </g>
+
+</svg>

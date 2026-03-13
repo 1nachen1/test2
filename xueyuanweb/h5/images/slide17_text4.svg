@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="647" height="128" viewBox="0 0 647 128">
+    <g>
+        <rect x="27" y="0" width="124" height="128" rx="10" fill="#0056AD" fill-opacity="1"/>
+        <text x="89" y="49" fill="white" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" dominant-baseline="middle">2017年</text>
+        <text x="89" y="94" fill="white" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" dominant-baseline="middle">2019年</text>
+
+
+        <rect x="169" y="0" width="455" height="128" rx="10" fill="#C89000" fill-opacity="1"/>
+
+        <text x="396" y="35" fill="white" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">甘肃省“五四红旗团支部”</text>
+        <text x="396" y="68" fill="white" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">标兵党支部</text>
+        <text x="396" y="101" fill="white" font-family="Arial, Microsoft YaHei, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">学校多年荣获“示范性党支部”</text>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="800" height="280" viewBox="0 -15 800 280">
+    <defs>
+        <linearGradient id="master_svg_mainGradient" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#0056AD" stop-opacity="1"/>
+            <stop offset="100%" stop-color="#F37D03" stop-opacity="1"/>
+        </linearGradient>
+    </defs>
+    <rect width="800" height="280" fill="#FFFFF"/>
+    <text x="400" y="85" text-anchor="middle" font-family="'MiSans VF', sans-serif" font-weight="bold" font-size="65" fill="url(#master_svg_mainGradient)">计算机与人工智能学院</text>
+    <text x="400" y="165" text-anchor="middle" font-family="'MiSans VF', sans-serif" font-weight="bold" font-size="55" fill="url(#master_svg_mainGradient)">欢迎八方优秀学子加盟</text>
+    <text x="400" y="230" text-anchor="middle" font-family="'MiSans VF', sans-serif" font-weight="normal" font-size="32" fill="url(#master_svg_mainGradient)">艰苦奋斗、自强不息、求真务实、开拓创新</text>
+</svg>

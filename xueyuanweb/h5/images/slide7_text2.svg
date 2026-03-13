@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 319" shape-rendering="crispEdges">
+    <defs>
+        <style type="text/css">
+            @font-face {
+            font-family: 'Source Han Sans CN';
+            src: local('Source Han Sans CN'), local('Noto Sans CJK SC'), local('思源黑体');
+            }
+            .blue-header { fill: #0059B3; } /* 颜色保留不变 */
+            .text-white { fill: white; font-family: 'Source Han Sans CN', sans-serif; font-size: 26px; font-weight: normal; } /* 仅缩小字体适配尺寸 */
+            .text-header-white { fill: white; font-family: 'Source Han Sans CN', sans-serif; font-size: 28px; font-weight: bold; }
+            .text-blue-large { fill: #004080; font-family: 'Source Han Sans CN', sans-serif; font-size: 32px; font-weight: bold; } /* 颜色保留不变 */
+            .divider-white { stroke: white; stroke-width: 1; }
+        </style>
+    </defs>
+
+    <!-- 背景尺寸适配650×319画布，颜色#D0A03C保留 -->
+    <rect x="0" y="18" width="650" height="255" rx="10" fill="#D0A03C" />
+
+    <!-- 顶部标签尺寸/位置适配，颜色#0059B3保留 -->
+    <rect x="14" y="0" width="211" height="76" rx="38" class="blue-header" />
+    <text x="119.5" y="38" text-anchor="middle" dominant-baseline="central" font-family="Source Han Sans CN, Source Han Sans CN Bold" font-size="32" font-weight="700" fill="white">科研成果</text>
+
+    <!-- 内容区域整体缩放，位置适配 -->
+    <g transform="translate(30, 90)">
+        <!-- 科研奖励模块 -->
+        <g transform="translate(0, 10)">
+            <text x="0" class="text-white">
+                科研奖励
+                <tspan x="0" dy="25">(7项)</tspan>
+            </text>
+
+            <g transform="translate(180, 10)">
+                <text class="text-white">
+                    <tspan font-size="24">省级二等奖：</tspan>
+                    <tspan class="text-blue-large" dx="8">3</tspan>
+                    <tspan dx="8" font-size="18">项</tspan>
+                </text>
+            </g>
+            <g transform="translate(400, 10)">
+                <text class="text-white">
+                    <tspan font-size="24">省级三等奖：</tspan>
+                    <tspan class="text-blue-large" dx="8">6</tspan>
+                    <tspan dx="8" font-size="18">项</tspan>
+                </text>
+            </g>
+        </g>
+
+        <!-- 分割线适配新尺寸 -->
+        <line x1="0" y1="45" x2="600" y2="45" class="divider-white" />
+
+        <!-- 发明专利与软著模块 -->
+        <g transform="translate(0, 85)">
+            <text x="0" class="text-white">
+                发明专利与软著
+                <tspan x="0" dy="25">(161项)</tspan>
+            </text>
+
+            <line x1="185" y1="-30" x2="185" y2="90" class="divider-white" />
+
+            <g transform="translate(200, 0)">
+                <text class="text-white">
+                    <tspan font-size="24">专利：</tspan>
+                    <tspan class="text-blue-large" dx="8">30</tspan>
+                    <tspan dx="8" font-size="18">项</tspan>
+                </text>
+                <text y="40" class="text-white">
+                    <tspan font-size="24">实用新型：</tspan>
+                    <tspan class="text-blue-large" dx="8">40</tspan>
+                    <tspan dx="8" font-size="18">项</tspan>
+                </text>
+            </g>
+            <g transform="translate(380, 0)">
+                <text class="text-white">
+                    <tspan font-size="24">软件著作权：</tspan>
+                    <tspan class="text-blue-large" dx="8">91</tspan>
+                    <tspan dx="8" font-size="18">项</tspan>
+                </text>
+            </g>
+        </g>
+
+        <!-- 分割线适配 -->
+        <line x1="0" y1="137" x2="600" y2="137" class="divider-white" />
+
+        <!-- 教材/专著模块 -->
+        <g transform="translate(0, 170)">
+            <text class="text-white">
+                教材
+                <tspan class="text-blue-large" dx="8">10</tspan>
+                <tspan dx="8">部</tspan>
+            </text>
+
+            <text x="200" class="text-white">
+                专著
+                <tspan class="text-blue-large" dx="8">5</tspan>
+                <tspan dx="15">部</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

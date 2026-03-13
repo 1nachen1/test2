@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="250" viewBox="0 0 750 150">
+    <defs>
+        <style type="text/css">
+            @font-face {
+            font-family: 'STHeiti-Light';
+            src: local('STHeiti Light'), local('STHeiti-Light'), local('Heiti SC Light');
+            }
+            text {
+            font-family: 'STHeiti-Light', sans-serif;
+            }
+        </style>
+    </defs>
+
+    <rect x="50" y="25" width="700" height="150" rx="60" ry="50" fill="#D9A428" />
+
+    <circle cx="95" cy="75" r="50" fill="#FFFFFF" stroke="#D9A428" stroke-width="2"/>
+
+    <svg x="72.5" y="52.5" width="45" height="45" viewBox="0 0 24 24" fill="none">
+        <rect x="4" y="4" width="16" height="16" rx="2" fill="#D9A428" />
+        <path d="M14 4 L18 4 L18 8" stroke="#D9A428" stroke-width="1.5" stroke-linecap="round" />
+        <rect x="7" y="7" width="8" height="1.5" fill="white" />
+        <rect x="7" y="13" width="10" height="1.5" fill="white" />
+    </svg>
+
+    <text x="160" y="52" font-size="26" fill="#FFFFFF" font-weight="700">
+        <tspan x="160" dy="8">电子邮箱或招生咨询QQ群：</tspan>
+        <tspan x="160" dy="28">电子邮箱：1156975294@qq.com</tspan>
+        <tspan x="160" dy="30">QQ群1: 438187081；QQ群2：903173706</tspan>
+        <tspan x="160" dy="32">学院网站：https://jitong.lut.edu.cn/index.htm</tspan>
+    </text>
+</svg>

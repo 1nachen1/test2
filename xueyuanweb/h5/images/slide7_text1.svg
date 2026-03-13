@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="650" height="319" viewBox="0 0 650 319">
+    <g>
+        <g>
+            <rect x="0" y="18" width="650" height="280" rx="10" fill="#0056AD" fill-opacity="1"/>
+        </g>
+        <g>
+            <rect x="14" y="0" width="211" height="76" rx="38" fill="#FFB404" fill-opacity="1"/>
+            <text x="119.5" y="38" text-anchor="middle" dominant-baseline="central" font-family="Source Han Sans CN, Source Han Sans CN Bold" font-size="32" font-weight="700" fill="white">科研项目</text>
+        </g>
+
+        <g>
+            <text x="260" y="65" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="32" font-weight="400" fill="white">总数:</text>
+            <text x="350" y="65" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN, Source Han Sans CN Bold" font-size="48" font-weight="700" fill="#FFB404">203</text>
+            <text x="445" y="65" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="32" font-weight="400" fill="white">项</text>
+        </g>
+
+        <g>
+            <text x="40" y="115" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="white">其中：国家科技支撑项目:</text>
+            <text x="380" y="115" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN, Source Han Sans CN Bold" font-size="48" font-weight="700" fill="white">1</text>
+            <text x="430" y="115" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="white">项</text>
+        </g>
+
+        <g>
+            <text x="40" y="165" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="white">国家重点研发计划:</text>
+            <text x="300" y="165" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN, Source Han Sans CN Bold" font-size="48" font-weight="700" fill="white">3</text>
+            <text x="360" y="165" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="white">项</text>
+        </g>
+
+        <g>
+            <text x="40" y="215" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="#FFB404">国家自然基金:</text>
+            <text x="240" y="215" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN, Source Han Sans CN Bold" font-size="48" font-weight="700" fill="#FFB404">50</text>
+            <text x="320" y="215" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="#FFB404">项</text>
+        </g>
+
+        <g>
+            <text x="40" y="265" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="white">项目总经费:</text>
+            <text x="200" y="265" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN, Source Han Sans CN Bold" font-size="48" font-weight="700" fill="#FFB404">7740</text>
+            <text x="320" y="265" text-anchor="start" dominant-baseline="central" font-family="Source Han Sans CN" font-size="28" font-weight="400" fill="white">万</text>
+        </g>
+    </g>
+</svg>

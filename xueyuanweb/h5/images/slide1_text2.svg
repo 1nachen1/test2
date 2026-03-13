@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" version="1.1" width="651" height="66" viewBox="0 0 651 66" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="master_svg0_60_14633" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB" x="0" y="0" width="1" height="1.0476190476190477">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="3" dx="0"/>
+      <feGaussianBlur stdDeviation="0"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.30000001192092896 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <linearGradient id="gradient-1" bx:pinned="true">
+      <stop style="stop-color: rgb(255, 255, 255);" offset="0"/>
+      <stop style="stop-color: rgb(226, 213, 160);" offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient-1-0" href="#gradient-1" gradientUnits="userSpaceOnUse" x1="433.063" y1="93.135" x2="433.063" y2="124.362" gradientTransform="matrix(1, 0, 0, 1, -211.570607, -71.133125)"/>
+  </defs>
+  <g filter="url(#master_svg0_60_14633)">
+    <text style="fill: url(&quot;#gradient-1-0&quot;); font-family: Arial, sans-serif; font-size: 41px; font-weight: 700; white-space: pre;" x="-2.49" y="47.255">兰州理工大学计算机与人工智能学院</text>
+  </g>
+</svg>

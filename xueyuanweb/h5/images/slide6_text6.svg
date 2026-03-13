@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 0 1000 220" width="1200px" height="220px">
+    <style>
+        .orange-text { fill: #FF6600; font-family: 'Microsoft YaHei', sans-serif; font-size: 26px; font-weight: bold; }
+        .orange-number { fill: #FF6600; font-family: 'Times New Roman', serif; font-size: 130px; font-weight: bold; }
+        .orange-unit { fill: #FF6600; font-family: 'Microsoft YaHei', sans-serif; font-size: 22px; font-weight: normal; }
+        .orange-shape { stroke: #FF6600; stroke-width: 3; fill: none; }
+        .orange-line { stroke: #FF6600; stroke-width: 2; fill: none; }
+    </style>
+
+    <g transform="translate(50, 40)">
+        <text class="orange-text" x="30" y="80">红柳杰青 </text>
+
+        <g transform="translate(380, 0)">
+            <text class="orange-number" x="0" y="100">1</text>
+            <text class="orange-unit" x="85" y="90">人</text>
+        </g>
+    </g>
+
+    <g transform="translate(50, 150)">
+        <g>
+            <polygon class="orange-shape" points="0,0 20,-20 40,0 20,20"/> <polygon class="orange-shape" points="5,0 20,-15 35,0 20,15"/> </g>
+        <line class="orange-line" x1="40" y1="0" x2="480" y2="0"/>
+    </g>
+
+    <g transform="translate(550, 40)">
+        <text class="orange-text" x="30" y="80">红柳优青</text>
+
+        <g transform="translate(400, 0)">
+            <text class="orange-number" x="0" y="100">4</text>
+            <text class="orange-unit" x="90" y="90">人</text>
+        </g>
+    </g>
+
+    <g transform="translate(550, 150)">
+        <g>
+            <polygon class="orange-shape" points="0,0 20,-20 40,0 20,20"/> <polygon class="orange-shape" points="5,0 20,-15 35,0 20,15"/> </g>
+        <line class="orange-line" x1="40" y1="0" x2="510" y2="0"/>
+    </g>
+</svg>
